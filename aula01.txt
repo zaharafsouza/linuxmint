@@ -1,0 +1,3 @@
+Sempre no linux a gente vai usar dois tipos de arquivo .txt (textos puros) e extençoes MD (linguagem markdown)
+
+Integração Linux Mint, Microsoft e Github
